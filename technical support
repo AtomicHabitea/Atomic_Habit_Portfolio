@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aishwarya Technical Support</title>
+    <style>
+        /* Your CSS styles here */
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Aishwarya Technical Support</h1>
+    </header>
+    <nav>
+        <a href="#introduction">Introduction</a>
+        <a href="#professional">Professional Summary</a>
+        <a href="#education">Education</a>
+        <a href="#skills">Skills</a>
+        <a href="#experience">Work Experience</a>
+        <a href="#hobbies">Hobbies</a>
+    </nav>
+    <div class="container" id="introduction">
+        <h2>Your Introduction</h2>
+        <p>Welcome to my portfolio website. I am Aishwarya, a technical support specialist with a focus on providing top-notch IT support. I excel in troubleshooting, Office 365 (O365) management, and remote support. With excellent communication skills, I ensure that technical issues are resolved effectively and efficiently, ensuring the best user experience.</p>
+    </div>
+    <div class="container" id="professional">
+        <h2>Who are you as a professional</h2>
+        <p>As a professional, I am dedicated to providing top-quality technical support. My education, skills, and work experience have equipped me to excel in the IT industry, and I am committed to delivering the best solutions to clients.</p>
+    </div>
+    <div class="container" id="education">
+        <h2>Your Education</h2>
+        <ul>
+            <li>10th - 88.55%</li>
+            <li>12th - 73.57%</li>
+            <li>BE - 7.57 CGPA (First class)</li>
+        </ul>
+    </div>
+    <div class="container" id="skills">
+        <h2>Your Skills</h2>
+        <ul>
+            <li>Excellent Communication</li>
+            <li>Office 365 (O365)</li>
+            <li>Troubleshooting</li>
+        </ul>
+    </div>
+    <div class="container" id="experience">
+        <h2>Your Work Experience</h2>
+        <p><strong>Lentra Ai Limited (April 2023 - Current)</strong></p>
+        <p><strong>Designation: Analyst 1</strong></p>
+        <ul>
+            <li>Monitoring 24*7 Security Analysis tool and responding timely to the queries.</li>
+            <li>Completed log analysis as needed, prioritized and differentiated between potential intrusion attempts and false negatives.</li>
+            <li>Monitored reported spam and phishing emails.</li>
+            <li>IDs monitoring and analysis through SIEM.</li>
+            <li>IP Blocking process followed from incident tracking to the approvals from seniors.</li>
+            <li>Acknowledging messages from team members and followed the same.</li>
+            <li>Followed KT sessions and attention to the CAB meetings.</li>
+            <li>Discussed alerts and incidents with team members as well as lead members.</li>
+            <li>Extracted reports and created dashboards for the alerts.</li>
+            <li>Created JIRA tickets for critical SIEM alerts and processed until they were closed.</li>
+            <li>Monitored security events from various SOC entry-level channels (SIEM, Tickets, Email, and Phone) based on the security event severity, escalating to managed service support teams and/or customers as appropriate for further investigation and resolution.</li>
+            <li>Other responsibilities and additional duties as assigned by the security management team.</li>
+        </ul>
+        <p><strong>JCB India Private Limited (August 2019 - 2022)</strong></p>
+        <p><strong>Designation: IT Engineer</strong></p>
+        <ul>
+            <li>Provided secondary training to personnel struggling with technological tools and systems.</li>
+            <li>Executed troubleshooting and server support in both in-person and remote situations.</li>
+            <li>Performed scheduled service work, installations, testing, and repairs.</li>
+        </ul>
+    </div>
+    <div class="container" id="hobbies">
+        <h2>Your Hobbies</h2>
+        <p>Hobbies: Reading books, Music</p>
+    </div>
+</body>
+</html>
